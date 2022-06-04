@@ -15,6 +15,7 @@ I want to learn Front-End Development in RSSchool! I want to develop in the IT f
 ## Education
   + Samara State Aerospace University
   + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress) 
+  + Решение задач SQL https://sql-ex.ru/
 ## Languages
   * Russian - native speaker
   * English - A2
