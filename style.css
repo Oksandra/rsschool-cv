@@ -1,15 +1,44 @@
+html {
+    scroll-behavior: smooth; 
+  }
 body {
     font-family: 'Lato', sans-serif;
+    font-size: 16px;
     min-height: 100vh;
     margin: 0; 
     padding: 0;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: rgba(174, 159, 199, 0.7);
 }
 * {
     box-sizing: border-box;
 }
 .header {
-    border: 1px solid red;
+    border: 2px solid #d7cde9;
+    background-color: rgba(154, 125, 207, 0.5);;
 }
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+.nav-list {
+    list-style: none;
+  }
+.nav-link {
+    padding: 0 30px;
+    line-height: 60px;
+    text-decoration: none;
+    font-size: 150%;
+    color: 2d1852;
+    font-weight: bold;
+  }
+  .nav-link:hover {
+      color: pink;
+  }
