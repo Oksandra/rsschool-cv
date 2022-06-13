@@ -23,6 +23,11 @@ body {
     background-color: rgba(154, 125, 207, 0.5);
 }
 
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+}
+
 .container {
     max-width: 1440px;
     margin: 0 auto;
@@ -76,5 +81,16 @@ body {
   .section-contacts {
     margin: 5px;
     border: 2px solid #d7cde9;
-    height: 200px;
+    height: 180px;
+  }
+
+  .link-git {
+  margin: 5px;
+  text-decoration: none;
+  font-size: 25px;
+  }
+
+  .text-data {
+   font-size: 25px;
+   color: white;
   }
