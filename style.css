@@ -74,7 +74,7 @@ body {
   }
   
   .section-contacts {
-    font-size: 20px;
     margin: 5px;
     border: 2px solid #d7cde9;
+    height: 200px;
   }
