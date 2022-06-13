@@ -1,2 +1,2 @@
-https://Oksandra.github.io/rsschool-cv/cv
-https://Oksandra.github.io/rsschool-cv/
+# rsschool-cv
+https://oksandra.github.io/rsschool-cv/cv
